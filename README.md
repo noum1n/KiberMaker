@@ -1,1 +1,1 @@
-# KiberMaker
+# KiberMaker - Программа для создания коллажей
